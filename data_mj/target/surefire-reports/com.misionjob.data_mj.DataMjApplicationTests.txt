@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.misionjob.data_mj.DataMjApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.405 s - in com.misionjob.data_mj.DataMjApplicationTests
